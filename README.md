@@ -39,3 +39,7 @@ Here are some ideas to get you started:
 
 <img align="left" alt="logicPro" width="26px" src="https://upload.wikimedia.org/wikipedia/en/e/e2/2015_Logic_Pro_Logo.png" />
 -->
+
+#### To find out more about me click on the link below:
+
+<a href="https://github.com/helloecho12345/CV"> Read my CV </a>     |     <a href="https://www.linkedin.com/in/esther-cho-308b61234/"> Linkedin </a> 
