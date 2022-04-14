@@ -42,4 +42,4 @@ Here are some ideas to get you started:
 
 #### To find out more about me click on the link below:
 
-<a href="https://github.com/helloecho12345/CV"> Read my CV </a>     |     <a href="https://www.linkedin.com/in/esther-cho-308b61234/"> Linkedin </a> 
+<a href="https://github.com/helloecho12345/CV"> Read my CV </a>     |     <a href="www.linkedin.com/in/esther-cho12345"> Linkedin </a> 
