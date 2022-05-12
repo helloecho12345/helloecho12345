@@ -1,3 +1,13 @@
+<div align="center">
+ <a href="https://www.linkedin.com/in/esther-cho12345/">
+    <img alt="linkedin" title="My LinkedIn Page" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+ <a href="mailto:helloecho12345@gmail.com">
+  <img src="https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+   <a href="https://github.com/helloecho12345">
+     <a href="https://www.codewars.com/users/echo12345">
+    <img src="https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white"/></a>
+ </div>
+
 ### Hi there 👋
 
 <img align="left" alt="rails" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
