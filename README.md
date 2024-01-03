@@ -10,13 +10,15 @@
 
 ### Hi there 👋
 
+<img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
 <img align="left" alt="rails" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 
 <img align="left" alt="javascript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <img align="left" alt="node" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
 
-<img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
+
 
 
 <img align="left" alt="html" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
@@ -30,6 +32,14 @@
 <img align="left" alt="vscode" width="50px" src="https://ih1.redbubble.net/image.1470587088.2816/st,small,845x845-pad,1000x1000,f8f8f8.jpg" />
 
 <img alt="github" width="50px" src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" />
+
+
+
+- 🌱 I’m currently learning ...
+  
+  <a href="https://airflow.apache.org/">
+  <img alt="aiflow" width="50px" src="https://airflow.apache.org/favicons/android-icon-192x192.png" />
+  
 
 <!--
 **helloecho12345/helloecho12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
