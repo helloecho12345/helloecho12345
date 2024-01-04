@@ -10,11 +10,19 @@
 
 ### Hi there 👋
 
+<a href="https://www.python.org" />
 <img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
-<img align="left" alt="rails" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
-
 <img align="left" alt="javascript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
+
+<a href="https://dotnet.microsoft.com/en-us/languages/csharp" />
+<img align="left" alt="csharp" width="50px" src="https://github.com/dotnet/vscode-csharp/blob/main/images/csharpIcon.png" />
+
+
+<a href="https://www.ruby-lang.org/en/" />
+<img align="left" alt="ruby" width="50px" src="https://github.com/helloecho12345/helloecho12345/assets/92740628/8739983e-2b7e-4a3d-9049-b336febfbb1f" />
+
+<img align="left" alt="rails" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 
 <img align="left" alt="node" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
 
