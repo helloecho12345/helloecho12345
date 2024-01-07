@@ -46,8 +46,10 @@
 - 🌱 I’m currently learning ...
   
   <a href="https://airflow.apache.org/">
-  <img alt="aiflow" width="50px" src="https://airflow.apache.org/favicons/android-icon-192x192.png" />
-  
+  <img alt="airflow" width="50px" src="https://airflow.apache.org/favicons/android-icon-192x192.png" />
+     
+  <a href="https://docs.docker.com/">
+  <img alt="docker" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" />
 
 <!--
 **helloecho12345/helloecho12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
