@@ -13,6 +13,7 @@
 <a href="https://www.python.org" />
 <img align="left" alt="python" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
 
+<a href="https://www.javascript.org" />
 <img align="left" alt="javascript" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
 
 <a href="https://dotnet.microsoft.com/en-us/languages/csharp" />
@@ -22,8 +23,10 @@
 <a href="https://www.ruby-lang.org/en/" />
 <img align="left" alt="ruby" width="50px" src="https://github.com/helloecho12345/helloecho12345/assets/92740628/8739983e-2b7e-4a3d-9049-b336febfbb1f" />
 
+<a href="https://www.rails.org" />
 <img align="left" alt="rails" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/rails/rails.png" />
 
+<a href="https://www.node.org" />
 <img align="left" alt="node" width="50px" src="https://cdn-icons-png.flaticon.com/512/919/919825.png" />
 
 
@@ -50,6 +53,9 @@
      
   <a href="https://docs.docker.com/">
   <img alt="docker" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/a/a7/Docker-svgrepo-com.svg" />
+
+  <a href="https://kubernetes.io/">
+  <img alt="kubernetes" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/0/00/Kubernetes_%28container_engine%29.png" />
 
 <!--
 **helloecho12345/helloecho12345** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
